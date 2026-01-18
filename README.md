@@ -31,7 +31,7 @@ I am a **Computer Science student** focused on Data Science and AI/ML. I enjoy b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-      <img src="https://drive.google.com/uc?export=view&id=1H-V0-QcWPxw0BDvwNtk_8BD76hAvHmaJ" alt="sqlserver" width="40" height="40"/>
+      <img src="[https://drive.google.com/uc?export=view&id=1H-V0-QcWPxw0BDvwNtk_8BD76hAvHmaJ](https://github.com/sarveshmahendramaurya/sarveshmahendramaurya/blob/main/document/Microsoft%20SQL%20Server.svg)" alt="sqlserver" width="40" height="40"/>
     </td>
     <td align="center" valign="top" width="33%">
       <strong>Web Development</strong><br><br>
