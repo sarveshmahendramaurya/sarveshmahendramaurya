@@ -24,8 +24,6 @@ I am a **Computer Science student** focused on Data Science and AI/ML. I enjoy b
 
 ### Tech Stack
 
-### Tech Stack
-
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
