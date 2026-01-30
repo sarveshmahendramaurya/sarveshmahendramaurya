@@ -51,7 +51,7 @@ I am a **Computer Science student** focused on Data Science and AI/ML. I enjoy b
 </table>
 
 ----
-
+  /*
 ###  Projects
 <div align="center">
   <a href="https://github.com/sarveshmahendramaurya/SQL-DataWarehouse-Project">
@@ -64,6 +64,7 @@ I am a **Computer Science student** focused on Data Science and AI/ML. I enjoy b
 </div>
 
 ---
+  */
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sarveshmahendramaurya&color=blue" alt="Profile Views" />
