@@ -55,10 +55,10 @@ I am a **Computer Science student** focused on Data Science and AI/ML. I enjoy b
 ###  Projects
 <div align="center">
   <a href="https://github.com/sarveshmahendramaurya/SQL-DataWarehouse-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshmahendramaurya&repo=SQL-DataWarehouse-Project&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshmahendramaurya&repo=SQL-DataWarehouse-Project&theme=tokyonight"/>
   </a>
   <a href="https://github.com/sarveshmahendramaurya/SQL-EDA-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshmahendramaurya&repo=SQL-EDA-Project&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarveshmahendramaurya&repo=SQL-EDA-Project&theme=tokyonight"/>
   </a>
  
 </div>
