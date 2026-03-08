@@ -1,4 +1,4 @@
-# Hi, I am Sarvesh Maurya
+# hi,I'm Sarvesh Maurya
 <div align="center">
   <p>
     <strong>Computer Science Student | Data Science Enthusiast | AI/ML Learner</strong>
