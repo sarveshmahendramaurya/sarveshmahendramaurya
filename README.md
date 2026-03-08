@@ -1,5 +1,5 @@
-# hi,I'm Sarvesh Maurya
 <div align="center">
+<h1>hi, I'm Sarvesh Maurya</h1>
   <p>
     <strong>Computer Science Student | Data Science Enthusiast | AI/ML Learner</strong>
   </p>
