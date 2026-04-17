@@ -25,11 +25,8 @@ I am a **Computer Science student** focused on Data Science and AI/ML. I enjoy b
 
 ### Tech Stack
 <div align="center">
-
 <strong>Data Science & Analysis Tools</strong>
-
 <br><br>
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/><br>SQL Server</td>
